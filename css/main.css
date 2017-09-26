@@ -86,14 +86,14 @@ body, html {
   color: #28bfb8; }
 
 .button-wrapper {
-  perspective-origin: 0% 75%;
+  perspective-origin: 0% 100%;
   perspective: 600px; }
 
 .button__left {
-  transform: rotate3d(0, 4, 0, 30deg); }
+  transform: rotate3d(0, 2, 0, 20deg); }
 
 .button__right {
-  transform: rotate3d(0, -4, 0, 30deg); }
+  transform: rotate3d(0, -2, 0, 20deg); }
 
 .button-text i {
   font-weight: bold; }
