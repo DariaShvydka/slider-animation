@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "build-css": "node-sass --iclude-path scss css/main.scss  css/main.css"
+    "build-css": "node-sass --iclude-path  scss css/main.scss  css/main.css --output-style"
   },
   "keywords": [],
   "author": "",
