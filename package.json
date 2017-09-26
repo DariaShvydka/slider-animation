@@ -1,0 +1,16 @@
+{
+  "name": "test_brights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build-css": "node-sass --iclude-path scss css/main.scss  css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3",
+    "nodemon": "^1.12.1"
+  }
+}
