@@ -1,10 +1,10 @@
 # task:
-Необходимо сделать слайдер с персонажами в кругах.
-Есть 2 типа персонажей - они выбираются рандомно, можно через одного - не имеет значения, главное чтобы встречались оба варианта.
-При клике на кнопки вперед/назад крайний круг с персонажем улетает в сторону, затем с другой стороны прилетает новый, и все три смещаются в сторону, чтобы выровняться по центру экрана.
-Слайдить можно в разные стороны неограниченное количество раз.
+Slider with 2 types of characters in circles.
+They are chosen through one.
+When clicking on the forward / backward buttons, the extreme circle with the character flies to the side, then a new one arrives on the other side, and all three are shifted to the side to align at the center of the screen.
+Slide can be in different directions an unlimited number of times.
  
-При наведении на персонажа он немного выпрыгивает из круга.
+When you hover over a character, he jumps a little out of the circle.
 
 # result:
-https://dariashvydka.github.io/test_brights/
+[click](https://dariashvydka.github.io/test_brights/)
