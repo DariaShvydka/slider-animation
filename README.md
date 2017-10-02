@@ -7,4 +7,4 @@ Slide can be in different directions an unlimited number of times.
 When you hover over a character, he jumps a little out of the circle.
 
 # result:
-[click](https://dariashvydka.github.io/test_brights/)
+[click](https://dariashvydka.github.io/slider-animation/)
